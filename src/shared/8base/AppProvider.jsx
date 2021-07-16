@@ -9,7 +9,7 @@ import { ENDPOINT_URI } from '../constants';
  * @param {JSX.Element} renderComponent component displayed after loading
  * @returns {JSX.Element}
  */
-const AppProvider = ({ loadingComponent, renderComponent, test }) => {
+const AppProvider = ({ loadingComponent, renderComponent }) => {
   return (
     <Provider uri={ENDPOINT_URI}>
       {({ loading }) => (loading ? loadingComponent() : renderComponent())}
