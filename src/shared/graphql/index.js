@@ -40,7 +40,7 @@ const TASK_UPDATE_MUTATION = gql`
 `;
 
 const TASK_DELETE_MUTATION = gql`
-  mutation TodoDelete($id: ID!) {
+  mutation TaskDelete($id: ID!) {
     taskDelete(filter: { id: $id }) {
       success
     }
