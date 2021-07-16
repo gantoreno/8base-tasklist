@@ -4,7 +4,7 @@
 
 # 8Base Tasklist
 
-[![Node.js CI](https://github.com/gantoreno/8base-tasklist/actions/workflows/node.js.yml/badge.svg)](https://github.com/gantoreno/8base-tasklist/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/gantoreno/8base-tasklist/actions/workflows/node.js.yml/badge.svg)](https://github.com/gantoreno/8base-tasklist/actions/workflows/node.js.yml) [![Netlify Status](https://api.netlify.com/api/v1/badges/551c5531-9df7-4dbf-8447-e7414eeeb01e/deploy-status)](https://app.netlify.com/sites/8base-tasklist/deploys)
 
 A simple task list bootstraped with [`create-react-app`](https://github.com/facebook/create-react-app) and connecting to the [8Base](https://www.8base.com/) API for storage & serverless functions.
 
