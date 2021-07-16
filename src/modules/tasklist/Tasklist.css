@@ -1,0 +1,10 @@
+.tasklist-card,
+.tasklist-card-list {
+  padding: 1px;
+}
+.tasklist-card {
+  width: 512px !important;
+}
+.tasklist-card-section-title {
+  margin-bottom: 16px;
+}

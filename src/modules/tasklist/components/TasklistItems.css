@@ -1,0 +1,27 @@
+.tasklist-item,
+.tasklist-item-separated {
+  display: flex;
+  align-items: center;
+}
+.tasklist-item-separated {
+  margin-bottom: 16px;
+}
+.tasklist-item-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.tasklist-item-title {
+  margin-bottom: 8px;
+}
+.tasklist-item-actions {
+  display: flex;
+  align-items: center;
+}
+.tasklist-item-actions-edit {
+  margin-right: 16px;
+}
+.tasklist-card-empty-text {
+  text-align: center;
+}

@@ -1,0 +1,15 @@
+.tasklist-creator {
+  display: flex;
+  align-items: center;
+}
+.tasklist-creator > div > div,
+.tasklist-creator > div > div > input {
+  width: 100% !important;
+}
+.tasklist-creator-input {
+  flex: 1 !important;
+  margin: 0px !important;
+}
+.tasklist-creator-button {
+  margin-left: 16px;
+}

@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e4ebf5;
+}
+.primary {
+  font-weight: bold;
+  color: var(--primary);
+}
+.error {
+  font-weight: bold;
+  color: var(--error);
+}
+.success {
+  font-weight: bold;
+  color: var(--success);
+}
