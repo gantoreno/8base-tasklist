@@ -4,6 +4,8 @@
 
 # 8Base Tasklist
 
+[![Node.js CI](https://github.com/gantoreno/8base-tasklist/actions/workflows/node.js.yml/badge.svg)](https://github.com/gantoreno/8base-tasklist/actions/workflows/node.js.yml)
+
 A simple task list bootstraped with [`create-react-app`](https://github.com/facebook/create-react-app) and connecting to the [8Base](https://www.8base.com/) API for storage & serverless functions.
 
 ## Features
